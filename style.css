@@ -9,7 +9,7 @@ body {
 /*============= Navbar Section =============*/
 
 .navbar {
-  background: rgba(0, 0, 0, 1);
+  background: rgba(0, 0, 0, 0.6);
 }
 .navbar-brand img {
   height: 3rem;
